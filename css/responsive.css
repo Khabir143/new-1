@@ -1,0 +1,128 @@
+
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+  .input1{
+  width:16%;
+}
+.input2{
+  width:16%;
+}
+.mobile{
+     width:79%;
+    
+}
+.newsletter h1{
+      width: 85%;
+
+}
+
+.form-1{
+  width:97%;
+}
+.lets h1{
+  width:85%;
+}
+.lets p{
+  width:85%;
+}
+.form-2{
+  width:117%;
+}
+.form-3{
+  width:117%;
+}
+.footer-menu{
+width:85%;
+display:flex;
+justify-content: space-around;
+}
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 360px) and (max-width: 640px) {
+  
+  /* CSS */
+  
+.input-1{
+  width:16%;
+}
+.input-2{
+  width:16%;
+}
+.mobile{
+      width: 31%;
+    margin: auto;
+
+}
+.footer-menu{
+ width: 85%;
+    display: flex;
+    justify-content: space-around;
+ 
+}
+
+.col1 h5{
+  
+  font-size:9px;
+ 
+
+}
+.col2 h5{
+  
+  font-size:9px;
+  
+  }
+  .col3 h5{
+  
+  font-size:9px;
+  
+}
+.col4 h5{
+ 
+  font-size:9px;
+  
+  }
+  .col5 h5{
+  
+  font-size:9px;
+  
+}
+.col6 h5{
+  
+  font-size:9px;
+  
+  }
+ }
